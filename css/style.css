@@ -1,0 +1,40 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+body, html {
+    background-color: #35424a;
+    /*color: #ffffff;
+    padding: 10px 0;
+    text-align: center;*/
+}
+
+nav {
+    background-color: #35424a;
+    color: #ffffff;
+    padding: 10px 0;
+    text-align: center;
+}
+.logo {
+    width: 10px;
+    height: auto;
+    display: inline-block;
+}
+
+h1 {
+    color: #FFF;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+
+
